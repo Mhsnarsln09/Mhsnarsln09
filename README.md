@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm Muhsin</h1>
-<div align="center"><img src="https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL">via GIPHY</a></p> </div>
+<div align="center"><img src="https://giphy.com/embed/4H3Ii5eLChYul9p7NL" width="480" height="480"></img> </div>
 
 
   
