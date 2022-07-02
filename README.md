@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm Muhsin</h1>
-<div align="center"><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="450" height="530"  /> </div>
+<div align="center"><img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="480" height="480"  /> </div>
 
 
   
