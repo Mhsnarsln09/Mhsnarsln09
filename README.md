@@ -19,6 +19,8 @@
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
+<a href="https://reactjs.org/" rel=”noopener”> <img src="https://www.cumatekintopuz.com.tr/media/images/react.png" alt="ReactJs" width="30" height="30"/> </a> 
 
 
 <br>
