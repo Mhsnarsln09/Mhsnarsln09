@@ -34,7 +34,7 @@
 
 <br>
 
-https://user-images.githubusercontent.com/94838351/180473586-3fb73e86-dfab-4025-a6ca-4ca5226811ec.mp4
+
 
 
 <br>
@@ -44,5 +44,4 @@ https://user-images.githubusercontent.com/94838351/180473586-3fb73e86-dfab-4025-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhsnarsln09&show_icons=true&theme=dark&locale=en" alt="Muhsin ARSLAN" width="50%" /></p>
 
 
-https://user-images.githubusercontent.com/94838351/180473552-98f3d483-00ec-4ee4-abdf-9f415c7237db.mp4
 
