@@ -44,9 +44,12 @@
 <br>
    <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhsnarsln09&show_icons=true&theme=radical&locale=en&layout=compact" alt="Muhsin ARSLAN" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhsnarsln09&layout=compact)](https://github.com/Mhsnarsln09)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhsnarsln09&show_icons=true&theme=dark&locale=en" alt="Muhsin ARSLAN" width="50%" /></p>
+![Muhsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhsnarsln09&show_icons=true&theme=transparent)
+
+
+
 
 
 
